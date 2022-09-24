@@ -1,0 +1,6 @@
+/**/.env
+/**/.DS_Store
+
+# Ignore Python cache files and compiled binaries
+/**/__pycache__
+/**/*.pyc
